@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizBox</string>
+    <string name="your_score">Your Score</string>
+    <string name="yugesh_verma">Yugesh Verma</string>
+    <string name="quizBox">QuizBox</string>
+    <string name="start">Start</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="restart">Restart</string>
+    <string name="java">JAVA</string>
+    <string name="cpp">C++</string>
+    <string name="c">C</string>
+    <string name="python">Python</string>
+    <string name="d">D</string>
+
+    <string name="b">B</string>
+    <string name="a">A</string>
+    <string name="next_question">Next Question</string>
+    <string name="quit">Quit</string>
+    <string name="questions">Questions</string>
+
+    <string name="zero">0</string>
+</resources>

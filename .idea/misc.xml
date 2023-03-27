@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/savji/OneDrive/Desktop/QuizApp-Android/QuizApp-Android/app/src/main/res/drawable/shapenextbutton.xml" value="0.167" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/QuizApp-Android/QuizApp-Android/app/src/main/res/drawable/shapestart.xml" value="0.167" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/QuizApp-Android/QuizApp-Android/app/src/main/res/layout-v21/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/QuizApp-Android/QuizApp-Android/app/src/main/res/layout/activity_after_start.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/QuizApp-Android/QuizApp-Android/app/src/main/res/layout/activity_developer.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/QuizApp-Android/QuizApp-Android/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/QuizApp-Android/QuizApp-Android/app/src/main/res/layout/activity_questions.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/QuizApp-Android/QuizApp-Android/app/src/main/res/layout/activity_result.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/savji/OneDrive/Desktop/QuizApp-Android/QuizApp-Android/app/src/main/res/layout/afterstart.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="jbr-11" project-jdk-type="JavaSDK" />
+</project>
