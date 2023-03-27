@@ -1,4 +1,4 @@
-# Readme
+# QuizApp-Android
 This app was developed as a task for Android developement at OasisInfobyte. It is developed using Android Studio<br>
 
 ## Introduction
